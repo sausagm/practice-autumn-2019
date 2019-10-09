@@ -1,5 +1,7 @@
 package lesson01.part2;
 
+import java.sql.SQLOutput;
+
 public class Task14 {
 
     /**
@@ -15,7 +17,9 @@ public class Task14 {
      */
 
     public static void print3(String s) {
-        //напишите тут ваш код
+        System.out.print(s);
+        System.out.print(s);
+        System.out.print(s);
 
     }
 
